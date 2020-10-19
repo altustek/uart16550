@@ -24,7 +24,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-- synced to  olofk / uart16550
+- checked and added license file and this readme
+- synced to  olofk/uart16550
 - Forked from freecores/uart16550
 
 <!-- MARKDOWN LINKS & IMAGES -->
