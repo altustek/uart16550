@@ -37,7 +37,7 @@
 [issues-shield]: https://img.shields.io/github/issues/altustek/uart16550?style=flat-square
 [issues-url]: https://github.com/altustek/uart16550/issues
 [license-shield]: https://img.shields.io/github/license/altustek/uart16550?style=flat-square
-[license-url]: https://github.com/altustek/uart16550/blob/master/License.md
+[license-url]: https://github.com/altustek/uart16550/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/altustek
 
